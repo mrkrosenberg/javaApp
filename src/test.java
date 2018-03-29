@@ -4,5 +4,8 @@ class test
         {
             String word = "Hello Java!";
             System.out.println(word);
+            
+            char word2 = 'T';
+            System.out.println(word2);
     }
 }
