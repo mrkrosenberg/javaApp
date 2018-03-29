@@ -20,5 +20,17 @@ class test
             
             boolean result = true;
             System.out.println("This is a " + result + " statement");
+            
+            byte g = 127;
+            System.out.println(g);
+            
+            short lilNumb = 30000;
+            System.out.println(lilNumb);
+            
+            long bigNumb = 834597235;
+            System.out.println(bigNumb);
+            
+            double decimalLong = 5.11111111111111111111111111;
+            System.out.println(decimalLong);
     }
 }
